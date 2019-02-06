@@ -1,0 +1,63 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  author: MyString
+  house: MyString
+  kind: MyString
+  number: MyString
+  year: MyString
+  description: MyString
+  status: MyString
+  last_step: MyString
+  last_step_date: MyString
+  link: MyString
+  last_step_committee: MyString
+  ext_id: MyString
+  corresponding_bills: MyString
+  offline_steps: MyString
+  medium_days_per_step: MyString
+  active: false
+  committee: MyString
+  name: MyString
+  favorites_count: MyString
+  parent_ext_id: MyString
+  legislative_house_id: MyString
+  attached_bills: MyString
+  ready_for_production: false
+  tsv: MyString
+  demo: false
+  procedure: MyString
+  appreciation: MyString
+  intro_date: MyString
+  updating: false
+
+two:
+  author: MyString
+  house: MyString
+  kind: MyString
+  number: MyString
+  year: MyString
+  description: MyString
+  status: MyString
+  last_step: MyString
+  last_step_date: MyString
+  link: MyString
+  last_step_committee: MyString
+  ext_id: MyString
+  corresponding_bills: MyString
+  offline_steps: MyString
+  medium_days_per_step: MyString
+  active: false
+  committee: MyString
+  name: MyString
+  favorites_count: MyString
+  parent_ext_id: MyString
+  legislative_house_id: MyString
+  attached_bills: MyString
+  ready_for_production: false
+  tsv: MyString
+  demo: false
+  procedure: MyString
+  appreciation: MyString
+  intro_date: MyString
+  updating: false
