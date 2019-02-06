@@ -1,24 +1,5 @@
-# README
+## Repositório criado para o desafio Fullstack Inteligov
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### O repositório consiste num aplicativo Ruby on Rails que serve uma API que será utilizada pelo front-end de uma aplicaço React. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[Link da API no Heroku](https://floating-journey-70389.herokuapp.com/api/v1/bills)
